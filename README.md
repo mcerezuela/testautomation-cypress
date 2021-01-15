@@ -1,5 +1,6 @@
 # testautomation-cypress
-basic cypress test automation setup.\n
+basic cypress test automation setup.
+
 SET UP CYPRESS "node --version"
 1. Install node JS (for windows with chocolatey "choco install nodejs-lts")
 2. JavaScript’s package manager "npm init -y" 
