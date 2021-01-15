@@ -1,0 +1,23 @@
+{
+  "name": "testautomation-cypress",
+  "version": "1.0.0",
+  "description": "basic cypress test automation setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcerezuela/testautomation-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcerezuela/testautomation-cypress/issues"
+  },
+  "homepage": "https://github.com/mcerezuela/testautomation-cypress#readme",
+  "dependencies": {
+    "cypress": "^3.8.3"
+  }
+}
